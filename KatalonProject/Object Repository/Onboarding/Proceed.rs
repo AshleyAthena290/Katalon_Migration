@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+    <description>ETB FSD happy-flow object. Captured Katalon mobile schema; confirm device properties against the target app build.</description>
+    <name>Proceed</name>
+    <tag>FSD_ETB_Onboarding_v2.0@20260415</tag>
+    <elementGuidId>53d14d9e-57b2-5ddc-a239-f60ad9f48f04</elementGuidId>
+    <selectorMethod>BASIC</selectorMethod>
+    <smartLocatorEnabled>false</smartLocatorEnabled>
+    <useRalativeImagePath>false</useRalativeImagePath>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>enabled</name>
+        <type>Main</type>
+        <value>true</value>
+        <webElementGuid>0fdb3e03-a889-5bef-ae93-d8f0b4e09d1e</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>class</name>
+        <type>Main</type>
+        <value>android.view.ViewGroup</value>
+        <webElementGuid>9c2fae06-a3bd-5bd6-a488-19ede92e0bda</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>true</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>content-desc</name>
+        <type>Main</type>
+        <value>Proceed</value>
+        <webElementGuid>b189fa15-16b0-538d-b7c5-8e3fc461a78c</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>displayed</name>
+        <type>Main</type>
+        <value>true</value>
+        <webElementGuid>0bdd1eac-ec74-58ec-a08e-968f3e42b045</webElementGuid>
+    </webElementProperties>
+    <locatorCollection>
+        <entry>
+            <key>XPATH</key>
+            <value>//*[@class = &#x27;android.view.ViewGroup&#x27; and (@text = &#x27;&#x27; or . = &#x27;&#x27;) and @content-desc = &#x27;Proceed&#x27;]</value>
+        </entry>
+        <entry>
+            <key>ID</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>ACCESSIBILITY</key>
+            <value>Proceed</value>
+        </entry>
+        <entry>
+            <key>CLASS_NAME</key>
+            <value>android.view.ViewGroup</value>
+        </entry>
+        <entry>
+            <key>ANDROID_UI_AUTOMATOR</key>
+            <value>new UiSelector().description(&quot;Proceed&quot;)</value>
+        </entry>
+        <entry>
+            <key>ATTRIBUTES</key>
+            <value>//*[@class = &#x27;android.view.ViewGroup&#x27; and (@text = &#x27;&#x27; or . = &#x27;&#x27;) and @content-desc = &#x27;Proceed&#x27;]</value>
+        </entry>
+        <entry>
+            <key>NAME</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>ANDROID_VIEWTAG</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>IMAGE</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>CUSTOM</key>
+            <value></value>
+        </entry>
+    </locatorCollection>
+    <locatorStrategy>ATTRIBUTES</locatorStrategy>
+    <platform>ANDROID</platform>
+</MobileElementEntity>

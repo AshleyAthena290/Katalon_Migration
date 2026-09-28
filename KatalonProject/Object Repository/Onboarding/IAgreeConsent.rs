@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+    <description>ETB FSD happy-flow object. Captured Katalon mobile schema; confirm device properties against the target app build.</description>
+    <name>IAgreeConsent</name>
+    <tag>FSD_ETB_Onboarding_v2.0@20260415</tag>
+    <elementGuidId>b0481950-712d-5de2-8d56-6b0da37fc8cf</elementGuidId>
+    <selectorMethod>BASIC</selectorMethod>
+    <smartLocatorEnabled>false</smartLocatorEnabled>
+    <useRalativeImagePath>false</useRalativeImagePath>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>enabled</name>
+        <type>Main</type>
+        <value>true</value>
+        <webElementGuid>ccde2554-1a02-5180-963b-e758cd42b4bf</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>class</name>
+        <type>Main</type>
+        <value>android.view.ViewGroup</value>
+        <webElementGuid>af3c0dfa-0059-5a60-910e-127d1577cb93</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>true</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>content-desc</name>
+        <type>Main</type>
+        <value>I agree &amp; consent</value>
+        <webElementGuid>fc77dc21-e620-501c-8c76-16fc0d32e5f1</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>displayed</name>
+        <type>Main</type>
+        <value>true</value>
+        <webElementGuid>e8f7d41e-2c13-5eac-9f4e-2192bfb64b34</webElementGuid>
+    </webElementProperties>
+    <locatorCollection>
+        <entry>
+            <key>XPATH</key>
+            <value>//*[@class = &#x27;android.view.ViewGroup&#x27; and (@text = &#x27;&#x27; or . = &#x27;&#x27;) and @content-desc = &#x27;I agree &amp; consent&#x27;]</value>
+        </entry>
+        <entry>
+            <key>ID</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>ACCESSIBILITY</key>
+            <value>I agree &amp; consent</value>
+        </entry>
+        <entry>
+            <key>CLASS_NAME</key>
+            <value>android.view.ViewGroup</value>
+        </entry>
+        <entry>
+            <key>ANDROID_UI_AUTOMATOR</key>
+            <value>new UiSelector().description(&quot;I agree &amp; consent&quot;)</value>
+        </entry>
+        <entry>
+            <key>ATTRIBUTES</key>
+            <value>//*[@class = &#x27;android.view.ViewGroup&#x27; and (@text = &#x27;&#x27; or . = &#x27;&#x27;) and @content-desc = &#x27;I agree &amp; consent&#x27;]</value>
+        </entry>
+        <entry>
+            <key>NAME</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>ANDROID_VIEWTAG</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>IMAGE</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>CUSTOM</key>
+            <value></value>
+        </entry>
+    </locatorCollection>
+    <locatorStrategy>ATTRIBUTES</locatorStrategy>
+    <platform>ANDROID</platform>
+</MobileElementEntity>

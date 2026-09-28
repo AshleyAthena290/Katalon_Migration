@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+    <description>ETB FSD happy-flow object. Captured Katalon mobile schema; confirm device properties against the target app build.</description>
+    <name>CreateUsername</name>
+    <tag>FSD_ETB_Onboarding_v2.0@20260415</tag>
+    <elementGuidId>724e8700-cb4a-507f-a9d8-032b027a71c0</elementGuidId>
+    <selectorMethod>BASIC</selectorMethod>
+    <smartLocatorEnabled>false</smartLocatorEnabled>
+    <useRalativeImagePath>false</useRalativeImagePath>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>enabled</name>
+        <type>Main</type>
+        <value>true</value>
+        <webElementGuid>0dd3344d-69e3-5f92-85fd-68a9978e9b0c</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>class</name>
+        <type>Main</type>
+        <value>android.view.ViewGroup</value>
+        <webElementGuid>104a0e9b-72c1-5d65-aa7f-c483de2cca61</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>true</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>content-desc</name>
+        <type>Main</type>
+        <value>Username</value>
+        <webElementGuid>7063f3b4-c867-5e3f-bc8e-f3113f272fff</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>displayed</name>
+        <type>Main</type>
+        <value>true</value>
+        <webElementGuid>750f2123-07b7-5828-9b16-89cad274cb71</webElementGuid>
+    </webElementProperties>
+    <locatorCollection>
+        <entry>
+            <key>XPATH</key>
+            <value>//*[@class = &#x27;android.view.ViewGroup&#x27; and (@text = &#x27;&#x27; or . = &#x27;&#x27;) and @content-desc = &#x27;Username&#x27;]</value>
+        </entry>
+        <entry>
+            <key>ID</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>ACCESSIBILITY</key>
+            <value>Username</value>
+        </entry>
+        <entry>
+            <key>CLASS_NAME</key>
+            <value>android.view.ViewGroup</value>
+        </entry>
+        <entry>
+            <key>ANDROID_UI_AUTOMATOR</key>
+            <value>new UiSelector().description(&quot;Username&quot;)</value>
+        </entry>
+        <entry>
+            <key>ATTRIBUTES</key>
+            <value>//*[@class = &#x27;android.view.ViewGroup&#x27; and (@text = &#x27;&#x27; or . = &#x27;&#x27;) and @content-desc = &#x27;Username&#x27;]</value>
+        </entry>
+        <entry>
+            <key>NAME</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>ANDROID_VIEWTAG</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>IMAGE</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>CUSTOM</key>
+            <value></value>
+        </entry>
+    </locatorCollection>
+    <locatorStrategy>ATTRIBUTES</locatorStrategy>
+    <platform>ANDROID</platform>
+</MobileElementEntity>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+    <description>ETB FSD happy-flow object. Captured Katalon mobile schema; confirm device properties against the target app build.</description>
+    <name>NewPassword</name>
+    <tag>FSD_ETB_Onboarding_v2.0@20260415</tag>
+    <elementGuidId>209cd3a1-801e-55ce-ae5a-fff9faaf45b4</elementGuidId>
+    <selectorMethod>BASIC</selectorMethod>
+    <smartLocatorEnabled>false</smartLocatorEnabled>
+    <useRalativeImagePath>false</useRalativeImagePath>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>enabled</name>
+        <type>Main</type>
+        <value>true</value>
+        <webElementGuid>f280011a-ee6c-561c-aca0-32cf5eb5fa09</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>class</name>
+        <type>Main</type>
+        <value>android.view.ViewGroup</value>
+        <webElementGuid>72d501a9-1778-511d-93e3-d2a99f5834a6</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>true</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>content-desc</name>
+        <type>Main</type>
+        <value>New Password</value>
+        <webElementGuid>ff555629-0872-59dd-94d0-91e035a84b22</webElementGuid>
+    </webElementProperties>
+    <webElementProperties>
+        <isSelected>false</isSelected>
+        <matchCondition>equals</matchCondition>
+        <name>displayed</name>
+        <type>Main</type>
+        <value>true</value>
+        <webElementGuid>78e1a18f-7c37-5db4-9ccc-aae1cb79ff5e</webElementGuid>
+    </webElementProperties>
+    <locatorCollection>
+        <entry>
+            <key>XPATH</key>
+            <value>//*[@class = &#x27;android.view.ViewGroup&#x27; and (@text = &#x27;&#x27; or . = &#x27;&#x27;) and @content-desc = &#x27;New Password&#x27;]</value>
+        </entry>
+        <entry>
+            <key>ID</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>ACCESSIBILITY</key>
+            <value>New Password</value>
+        </entry>
+        <entry>
+            <key>CLASS_NAME</key>
+            <value>android.view.ViewGroup</value>
+        </entry>
+        <entry>
+            <key>ANDROID_UI_AUTOMATOR</key>
+            <value>new UiSelector().description(&quot;New Password&quot;)</value>
+        </entry>
+        <entry>
+            <key>ATTRIBUTES</key>
+            <value>//*[@class = &#x27;android.view.ViewGroup&#x27; and (@text = &#x27;&#x27; or . = &#x27;&#x27;) and @content-desc = &#x27;New Password&#x27;]</value>
+        </entry>
+        <entry>
+            <key>NAME</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>ANDROID_VIEWTAG</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>IMAGE</key>
+            <value></value>
+        </entry>
+        <entry>
+            <key>CUSTOM</key>
+            <value></value>
+        </entry>
+    </locatorCollection>
+    <locatorStrategy>ATTRIBUTES</locatorStrategy>
+    <platform>ANDROID</platform>
+</MobileElementEntity>

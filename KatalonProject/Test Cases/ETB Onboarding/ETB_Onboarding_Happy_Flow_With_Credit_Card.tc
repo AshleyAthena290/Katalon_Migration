@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>FSD happy flow for a credit-card user without an M2U ID: credit-card details, username, password, security image, OTP, access creation, nickname, permissions, and dashboard.</description>
+    <name>ETB_Onboarding_Happy_Flow_With_Credit_Card</name>
+    <tag>FSD_ETB_Onboarding_v2.0@20260415; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>dcad2785-4421-5304-b3e1-9a8d18c0d45c</testCaseGuid>
+    <testCaseId>Test Cases/ETB Onboarding/ETB_Onboarding_Happy_Flow_With_Credit_Card</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

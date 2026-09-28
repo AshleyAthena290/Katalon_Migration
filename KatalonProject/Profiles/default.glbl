@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+    <description>ETB onboarding FSD happy-flow configuration. Populate with approved non-production values.</description>
+    <name>default</name>
+    <tag>FSD_ETB_Onboarding_v2.0@20260415</tag>
+    <defaultProfile>true</defaultProfile>
+    <GlobalVariableEntity>
+        <description>Absolute path to the APK or IPA</description>
+        <initValue>""</initValue>
+        <name>appPath</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved M2U test username</description>
+        <initValue>""</initValue>
+        <name>m2uUsername</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved M2U test password</description>
+        <initValue>""</initValue>
+        <name>m2uPassword</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved card test number</description>
+        <initValue>""</initValue>
+        <name>cardNumber</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved card expiry test value</description>
+        <initValue>""</initValue>
+        <name>cardExpiryDate</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved card PIN test value</description>
+        <initValue>""</initValue>
+        <name>cardPin</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved new username test value</description>
+        <initValue>""</initValue>
+        <name>newUsername</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved new password test value</description>
+        <initValue>""</initValue>
+        <name>newPassword</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved nickname test value</description>
+        <initValue>""</initValue>
+        <name>nickname</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved SMS OTP test value</description>
+        <initValue>""</initValue>
+        <name>otp</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description>Approved menu search term for the Navbar Menu happy flow</description>
+        <initValue>""</initValue>
+        <name>menuSearchQuery</name>
+        <tag>FSD happy flow</tag>
+        <valueType>STRING</valueType>
+    </GlobalVariableEntity>
+</GlobalVariableEntities>

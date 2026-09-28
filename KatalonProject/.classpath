@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path="Keywords"/>
+    <classpathentry kind="src" path="Scripts"/>
+    <classpathentry kind="src" path="Test Cases"/>
+    <classpathentry kind="src" path="Test Listeners"/>
+    <classpathentry kind="src" path="Include"/>
+    <classpathentry kind="con" path="com.kms.katalon.core.classpathcontainer"/>
+    <classpathentry kind="output" path="bin"/>
+</classpath>

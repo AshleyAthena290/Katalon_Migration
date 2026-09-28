@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+    <description>ETB onboarding mobile happy-flow project.</description>
+    <name>KatalonProject</name>
+    <tag>FSD_ETB_Onboarding_v2.0@20260415</tag>
+    <UUID>9236b607-5177-5435-baf7-e776b4ef37a7</UUID>
+    <createdEdition>FREE</createdEdition>
+    <createdVersion>11.4.0</createdVersion>
+    <freeLicense>true</freeLicense>
+    <modifiedEdition>FREE</modifiedEdition>
+    <modifiedVersion>11.4.0</modifiedVersion>
+    <pageLoadTimeout>0</pageLoadTimeout>
+    <sourceContent>
+        <sourceFolderList>
+            <sourceFolderConfiguration>
+                <url>Include/scripts/groovy</url>
+            </sourceFolderConfiguration>
+        </sourceFolderList>
+        <systemFolderList>
+            <systemFolderConfiguration>
+                <url>Include/scripts/groovy</url>
+            </systemFolderConfiguration>
+            <systemFolderConfiguration>
+                <url>Include/features</url>
+            </systemFolderConfiguration>
+            <systemFolderConfiguration>
+                <url>Include/config</url>
+            </systemFolderConfiguration>
+        </systemFolderList>
+    </sourceContent>
+    <timeStampInProperties>false</timeStampInProperties>
+    <type>MOBILE</type>
+</Project>

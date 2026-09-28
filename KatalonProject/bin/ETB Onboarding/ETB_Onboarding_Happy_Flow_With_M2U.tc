@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>FSD happy flow for an existing M2U ID: consent, login, nickname, permissions, primary account, biometric setup, and dashboard.</description>
+    <name>ETB_Onboarding_Happy_Flow_With_M2U</name>
+    <tag>FSD_ETB_Onboarding_v2.0@20260415; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>d510d553-0732-5788-8d45-111b8f0c467d</testCaseGuid>
+    <testCaseId>Test Cases/ETB Onboarding/ETB_Onboarding_Happy_Flow_With_M2U</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>
