@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>10.0 Temp Banner (All) - Open and dismiss a regulatory-update temp banner</description>
+    <name>TempBanner_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>8447b822-6e00-5e08-af44-840e92b279ae</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/TempBanner_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

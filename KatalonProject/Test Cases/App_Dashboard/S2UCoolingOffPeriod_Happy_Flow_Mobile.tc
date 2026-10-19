@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>18.0 S2U Cooling off Period - View Secure2u cooling-off period notice and proceed</description>
+    <name>S2UCoolingOffPeriod_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>722274d5-f0d6-5dd3-b57b-58f2560a519d</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/S2UCoolingOffPeriod_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

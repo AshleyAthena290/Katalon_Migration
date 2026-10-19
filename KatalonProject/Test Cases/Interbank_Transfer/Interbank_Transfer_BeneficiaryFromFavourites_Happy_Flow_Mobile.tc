@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Interbank transfer - select beneficiary from favourites</description>
+    <name>Interbank_Transfer_BeneficiaryFromFavourites_Happy_Flow_Mobile</name>
+    <tag>Interbank Transfer; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>c1771f44-69d7-5de4-9784-0cc3012836e5</testCaseGuid>
+    <testCaseId>Test Cases/Interbank_Transfer/Interbank_Transfer_BeneficiaryFromFavourites_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

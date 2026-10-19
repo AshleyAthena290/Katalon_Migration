@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>5.0 For you (All) - Open a For you tile</description>
+    <name>ForYou_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>ffb157e0-5ef1-5ab5-9a2c-c46a415dac3c</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/ForYou_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

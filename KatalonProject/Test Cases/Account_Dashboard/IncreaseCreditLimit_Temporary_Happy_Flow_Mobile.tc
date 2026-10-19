@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Function: Increase Credit Limit - Temporary</description>
+    <name>IncreaseCreditLimit_Temporary_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Financing_v2.0@20260618; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>f4e0ec69-0a9b-5edf-b1b6-fa6c690f83d5</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/IncreaseCreditLimit_Temporary_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Function: Credit Card Details - Summary</description>
+    <name>CreditCardDetails_Summary_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Financing_v2.0@20260618; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>dffe130b-0692-54fa-bd5e-d8c08d6fe799</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/CreditCardDetails_Summary_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

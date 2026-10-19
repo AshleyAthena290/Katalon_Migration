@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>1.1 Time Deposit- Dashboard - View the Time Deposit dashboard, mask/unmask total deposits, and open a placement</description>
+    <name>TimeDepositDashboard_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Time Deposits_v2.0@20260624; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>d14e2ba4-3324-566a-ae27-b246706f9eeb</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/TimeDepositDashboard_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

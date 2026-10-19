@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Function: Loan Dashboard - Landing</description>
+    <name>LoanDashboard_Landing_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Financing_v2.0@20260618; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>0fe63520-438a-59d1-87c0-1ad7f75b9b6c</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/LoanDashboard_Landing_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

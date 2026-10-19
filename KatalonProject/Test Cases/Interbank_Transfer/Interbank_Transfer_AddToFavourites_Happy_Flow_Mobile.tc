@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Interbank transfer - add beneficiary to favourites during transfer</description>
+    <name>Interbank_Transfer_AddToFavourites_Happy_Flow_Mobile</name>
+    <tag>Interbank Transfer; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>efcea32f-f1fc-5534-b714-8cefffa5ee25</testCaseGuid>
+    <testCaseId>Test Cases/Interbank_Transfer/Interbank_Transfer_AddToFavourites_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

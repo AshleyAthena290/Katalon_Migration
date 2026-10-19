@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Function 43: Installment Conversion - Tenor Selection</description>
+    <name>InstalmentConversion_TenorSelection_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Financing_v2.0@20260618; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>509cfba0-9e9a-56f2-8079-9854c73fcfed</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/InstalmentConversion_TenorSelection_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

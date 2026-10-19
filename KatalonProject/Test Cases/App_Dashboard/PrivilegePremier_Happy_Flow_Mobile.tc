@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>4.0 2Ps-Privilege &amp; Premier - View 2Ps rewards &amp; benefits and explore tiers</description>
+    <name>PrivilegePremier_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>1d7c10cf-5076-59f0-8037-439473bb4305</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/PrivilegePremier_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

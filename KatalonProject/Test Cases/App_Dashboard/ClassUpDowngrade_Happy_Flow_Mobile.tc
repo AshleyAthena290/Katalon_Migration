@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>4.2 2Ps Class Up &amp; Downgrade - Acknowledge class level-up celebratory drawer</description>
+    <name>ClassUpDowngrade_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>a9652961-f952-5456-b5e7-9b9797426282</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/ClassUpDowngrade_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

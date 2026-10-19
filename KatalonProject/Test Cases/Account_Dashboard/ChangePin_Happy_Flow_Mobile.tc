@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Function 85: Change PIN - Secure2U FMA</description>
+    <name>ChangePin_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Financing_v2.0@20260618; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>c6545678-dbe1-5195-9ef4-e54d63b25346</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/ChangePin_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

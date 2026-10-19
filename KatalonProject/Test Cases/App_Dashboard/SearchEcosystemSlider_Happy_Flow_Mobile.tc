@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>7.0 Search &amp; Ecosys Slider(All) - Switch ecosystem and open search</description>
+    <name>SearchEcosystemSlider_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>7dffe09a-1572-5c4c-8c55-6d7033ef1e8b</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/SearchEcosystemSlider_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

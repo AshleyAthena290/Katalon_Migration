@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>11.0 CC Holder Only-Apply CASA - CC-holder-only customer applies for a Savings Account</description>
+    <name>CCHolderApplyCASA_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>28729e7c-afaf-59a9-965e-f4f17fb69bea</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/CCHolderApplyCASA_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

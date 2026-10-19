@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>1.1.1 Time Deposit Details - View Time Deposit details and access Manage actions</description>
+    <name>TimeDepositDetails_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Time Deposits_v2.0@20260624; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>1d99571f-6493-5dfd-a6e4-b73b19a8682d</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/TimeDepositDetails_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

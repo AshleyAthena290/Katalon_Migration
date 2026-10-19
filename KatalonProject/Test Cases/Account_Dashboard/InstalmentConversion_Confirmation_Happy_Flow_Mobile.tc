@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Function: Instalment Conversion - Confirmation</description>
+    <name>InstalmentConversion_Confirmation_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Financing_v2.0@20260618; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>2c3c6021-806d-5993-98ea-54edf7c153b2</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/InstalmentConversion_Confirmation_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

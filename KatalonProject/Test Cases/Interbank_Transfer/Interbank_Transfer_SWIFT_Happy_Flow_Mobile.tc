@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Interbank transfer - Happy flow via SWIFT/BIC</description>
+    <name>Interbank_Transfer_SWIFT_Happy_Flow_Mobile</name>
+    <tag>Interbank Transfer; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>f08061de-4e18-5868-a313-6f177f9debc9</testCaseGuid>
+    <testCaseId>Test Cases/Interbank_Transfer/Interbank_Transfer_SWIFT_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

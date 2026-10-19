@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>9.0 Navbar Menu (All) - Open the menu and search for an item</description>
+    <name>NavbarMenu_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>ec8709d0-cf67-52f0-96ab-7c3eb4b7be51</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/NavbarMenu_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

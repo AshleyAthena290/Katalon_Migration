@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Function 60: Increase Credit Limit - Secure2U EDW</description>
+    <name>IncreaseCreditLimit_Secure2u_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Financing_v2.0@20260618; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>9920fd36-75bc-525e-8fc9-83275b859e43</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/IncreaseCreditLimit_Secure2u_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

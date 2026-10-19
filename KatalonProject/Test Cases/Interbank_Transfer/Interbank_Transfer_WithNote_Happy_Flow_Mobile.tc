@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Interbank transfer - include note/reference</description>
+    <name>Interbank_Transfer_WithNote_Happy_Flow_Mobile</name>
+    <tag>Interbank Transfer; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>8e34aa24-58d6-5ebd-8e18-d4623f64590b</testCaseGuid>
+    <testCaseId>Test Cases/Interbank_Transfer/Interbank_Transfer_WithNote_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

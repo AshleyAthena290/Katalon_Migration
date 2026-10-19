@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>8.0 Navbar (All) - Navigate between Accounts and Home via the navbar</description>
+    <name>Navbar_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>43cd0f4a-3a0d-5460-9d0a-0bf527c0a96e</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/Navbar_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

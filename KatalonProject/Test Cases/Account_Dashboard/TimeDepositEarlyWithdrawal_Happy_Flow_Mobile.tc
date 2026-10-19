@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>1.1.1.2 Manage- EarlyWithdrawal - Submit an early withdrawal and confirm via the acknowledgement screen</description>
+    <name>TimeDepositEarlyWithdrawal_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Time Deposits_v2.0@20260624; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>e6c81805-4a30-52ba-b0eb-c33e25bd9132</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/TimeDepositEarlyWithdrawal_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

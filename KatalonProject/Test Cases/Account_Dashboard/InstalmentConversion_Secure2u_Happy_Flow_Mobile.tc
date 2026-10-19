@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Function 48: Installment Conversion - Secure2U EDW</description>
+    <name>InstalmentConversion_Secure2u_Happy_Flow_Mobile</name>
+    <tag>FSD_Account Dashboard_Financing_v2.0@20260618; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>9e83ae92-22f7-5f9f-8a70-a11b4e74af0d</testCaseGuid>
+    <testCaseId>Test Cases/Account_Dashboard/InstalmentConversion_Secure2u_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>

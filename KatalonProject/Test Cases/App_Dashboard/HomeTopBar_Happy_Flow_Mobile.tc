@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>1.0 Home-Top Bar (All) - Home top bar profile and notification access</description>
+    <name>HomeTopBar_Happy_Flow_Mobile</name>
+    <tag>FSD_App Dashboard_Banking &amp; Wealth_v2.0@20260421; happy flow</tag>
+    <comment></comment>
+    <testCaseGuid>c1e46b0d-3a4f-578d-99ab-2e791697ce1a</testCaseGuid>
+    <testCaseId>Test Cases/App_Dashboard/HomeTopBar_Happy_Flow_Mobile</testCaseId>
+    <isReuseDriver>false</isReuseDriver>
+    <isRunNextCaseAutomatically>false</isRunNextCaseAutomatically>
+    <testCaseType>Mobile</testCaseType>
+</TestCaseEntity>
